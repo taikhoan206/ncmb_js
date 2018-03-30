@@ -4,7 +4,7 @@ var config = require("config");
 var expect = require("chai").expect;
 var NCMB = require("../lib/ncmb");
 var ncmb = null;
-
+/*
 describe("NCMB Users", function(){
   var ncmb = null;
   var callback_name = "callback";
@@ -3871,3 +3871,4 @@ describe("NCMB Users", function(){
   });
 
 });
+*/
