@@ -308,3 +308,4 @@ Run `npm run document:generate` command, then documents has created in `jsdoc` d
 ## License
 
 Please read [LICENSE](git://github.com/NIFCloud-mbaas/ncmb_js/blob/master/LICENSE).
+
